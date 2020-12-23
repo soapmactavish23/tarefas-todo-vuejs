@@ -1,4 +1,23 @@
-# todo
+# Tarefas (TODO) VUEJS
+
+### Descrição
+  - Esse projeto serve para salvar(LocalStorage) tarefas, marca-las como concluídas, removelas e desmarca-las.
+
+### Plataforma adotada
+  WEB
+  
+### Linguagem
+  JavaScript - VueJS
+  
+### Prints
+## Iniciar
+  ![](prints/iniciar.PNG)
+## Game
+  ![](prints/50.PNG)
+## Ganhou
+  ![](prints/pendente.PNG)
+## Perdeu
+  ![](prints/fim.PNG)
 
 ## Project setup
 ```
