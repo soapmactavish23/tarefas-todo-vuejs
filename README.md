@@ -11,7 +11,7 @@
   
 ### Prints
 ## Iniciar
-  ![](prints/iniciar.PNG)
+  ![](prints/inicio.PNG)
 ## Game
   ![](prints/50.PNG)
 ## Ganhou
