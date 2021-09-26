@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img src="https://firebasestorage.googleapis.com/v0/b/apostas-e1af2.appspot.com/o/vuejs%2Fstock-trader%2Flogo.png?alt=media&token=a9f3e6ee-b035-472b-be56-e56750c31bf0" width="400">
+   <img src="https://firebasestorage.googleapis.com/v0/b/apostas-e1af2.appspot.com/o/vuejs%2FTODO.png?alt=media&token=f03c7406-57ee-4cd0-979c-8df692da98ee" width="400">
 </h1>
 
 <h4 align="center"> 
