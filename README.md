@@ -1,23 +1,38 @@
-# Tarefas (TODO) VUEJS
+<h1 align="center">
+   <img src="https://firebasestorage.googleapis.com/v0/b/apostas-e1af2.appspot.com/o/vuejs%2Fstock-trader%2Flogo.png?alt=media&token=a9f3e6ee-b035-472b-be56-e56750c31bf0" width="400">
+</h1>
 
-### Descrição
+<h4 align="center"> 
+	🚧 Tarefas (TODO) VUEJS 🚀 Concluido...  🚧
+</h4>
+
+
+## 📚 Descrição
   - Esse projeto serve para salvar(LocalStorage) tarefas, marca-las como concluídas, removelas e desmarca-las.
 
-### Plataforma adotada
-  WEB
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" heigth="20" width="20"/> [Vuejs](https://vuejs.org/)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" heigth="20" width="20"/> [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" heigth="20" width="20"/> [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+
+## 🖥️ Plataforma adotada
+
+  - WEB
   
-### Linguagem
-  JavaScript - VueJS
+## 📸 Screenshot
   
-### Prints
-## Iniciar
-  ![](prints/inicio.PNG)
-## Game
-  ![](prints/50.PNG)
-## Ganhou
-  ![](prints/pendente.PNG)
-## Perdeu
-  ![](prints/fim.PNG)
+  <p float="left">
+	  <img src="prints/inicio.PNG" width="450">
+	  <img src="prints/50.PNG" width="450">
+  </p>
+  
+  <p float="left">
+	  <img src="prints/pendente.PNG" width="450">
+	  <img src="prints/fim.PNG" width="450">
+  </p>
 
 ## Project setup
 ```
